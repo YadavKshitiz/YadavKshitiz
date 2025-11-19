@@ -7,17 +7,17 @@
 
 ## 🚀 About Me
 
-- 🛠️ **Skills:** Kotlin, Jetpack Compose, Java, C, Git
+- 🛠️ **Skills:**  Java, Kotlin, Jetpack Compose, C, Git
 - 💡 **Interests:** Mobile app development, learning new tech, and contributing to open source
-- 🌱 Currently exploring: Advanced Android development, open source contributions
-- 🍀 **Hobbies:** Gardening, cycling, and reading books
+- 🌱 Currently exploring: Advanced Android development, open source contributions and Machine Learning
+- 🍀 **Hobbies:** Gardening, Cycling, Writing and Reading books
 
 ---
 
 ## 🏆 Featured Projects
 
 - [🎬 Movie_App](https://github.com/YadavKshitiz/Movie_App) — Explore movies with a beautiful UI
-- [😌 Stress_Detection_App](https://github.com/YadavKshitiz/Stress_Detection_App) — Know your stress
+- [😌 Stress_Detection_App](https://github.com/YadavKshitiz/Stress_Detection_App) — Upload your photo and know your stress
 - [🧑‍💻 My Portfolio](https://github.com/YadavKshitiz/YadavKshitiz.github.io) — Check out my work and journey!
 
 ---
