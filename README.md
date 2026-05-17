@@ -14,7 +14,7 @@ Currently a 3rd-year Computer Engineering student at Thapar Institute of Enginee
 `Jetpack Compose` `Android SDK` `MVVM` `Hilt` `Retrofit` `Room DB` `CameraX` `Firebase` `REST API` `Coroutines` `StateFlow` `Material 3`
 
 **Tools**
-`Git & GitHub` `Android Studio` `Postman` `nGrok` `Render`
+`Git & GitHub` `Android Studio` `nGrok` `Render`
 
 ---
 
@@ -49,13 +49,6 @@ I solve DSA problems consistently in **Java** on LeetCode — 100+ problems comp
 `Linked List` `Stack` `Queue` `Binary Search` `Recursion & Backtracking`
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-YadavKshitiz-orange?logo=leetcode&style=flat-square)](https://leetcode.com/YadavKshitiz)
-
----
-
-## 📊 GitHub Stats
-
-![Kshitiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YadavKshitiz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YadavKshitiz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
